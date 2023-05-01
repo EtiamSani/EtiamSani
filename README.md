@@ -2,7 +2,7 @@
 
 <h1 align="center">👋</h1>
 <h3 align="center">A passionate backend developer from France</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/117190787/235464053-6f9758f2-d8a3-4ab1-948e-d755777a70e8.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/117190787/235464053-6f9758f2-d8a3-4ab1-948e-d755777a70e8.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/etiamsani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="etiam sani" height="30" width="40" /></a>
