@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Etiam</h1>
+![MasterHead](https://user-images.githubusercontent.com/117190787/235461527-635b80e6-ff64-48d3-a0c3-b2f4fe03d7c6.png)
+
+
+<h1 align="center">👋</h1>
 <h3 align="center">A passionate backend developer from France</h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -33,3 +36,9 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=etiamsani&show_icons=true&locale=en&layout=compact" alt="etiamsani" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=etiamsani&show_icons=true&locale=en" alt="etiamsani" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=etiamsani&" alt="etiamsani" /></p>
