@@ -36,7 +36,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=etiamsani&show_icons=true&locale=en&layout=compact" alt="etiamsani" /></p>
+<p><img align="left" src="https://readmestats.999857.xyz/api/top-langs?username=etiamsani&show_icons=true&locale=en&layout=compact" alt="etiamsani" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=etiamsani&show_icons=true&locale=en" alt="etiamsani" /></p>
 
