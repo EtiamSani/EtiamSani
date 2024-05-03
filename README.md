@@ -46,7 +46,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=etiamsani&" alt="etiamsani" /></p>
 
-<h4>My contributions including private repositories</h4>
 
-![image](https://github.com/EtiamSani/EtiamSani/assets/117190787/f88d26f6-67bd-4865-b6ec-3dbdf73711ff)
 
